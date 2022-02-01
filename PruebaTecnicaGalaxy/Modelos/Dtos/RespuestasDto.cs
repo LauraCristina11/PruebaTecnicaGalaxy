@@ -9,5 +9,7 @@ namespace PruebaTecnicaGalaxy.Modelos.Dtos
     {
         public int Codigo { get; set; }
         public string Mensaje { get; set; }
+        //public string Mensaje { get; set; }
+
     }
 }
